@@ -7,3 +7,4 @@ enableXsrfProtection=false\n
 port = $PORT\n
 \n
 " > ~/.streamlit/config.toml
+\n
